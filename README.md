@@ -1,2 +1,2 @@
 # Mail Classifier
- A simple mail classifier using machine learning (least squares method).
+ A binary mail classifier using machine learning (least squares method).
